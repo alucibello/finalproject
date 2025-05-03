@@ -1,0 +1,12 @@
+.centered-text {
+    font-size: 2rem;  /* makes the text larger */
+    font-weight: bold; /* makes the text bold */
+    margin: 0; /* removes default margin */
+  }
+  
+  .text {
+    font-size: 2rem; /* makes the text larger */
+    font-weight: bold; /* makes the text bold */
+    margin: 0; /* optional: removes default margin */
+    flex-shrink: 0; /* ensures the text doesn't shrink */
+  }

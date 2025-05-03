@@ -1,0 +1,10 @@
+.hero-image {
+    display: block;
+    background-image: url(../images/stats3.jpg); 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 80vh;
+    width: 100%;
+    text-decoration: none;
+}
