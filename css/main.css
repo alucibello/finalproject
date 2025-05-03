@@ -1,0 +1,36 @@
+.carousel{
+    display: flex;
+    flex-direction: column;
+    margin-top: 1em;
+    align-items: center;
+  }
+   .carousel-inner{
+     max-width: 800px;
+     max-height: 800px;
+   }
+   .slicknavmenu{
+    display: none;
+   }
+   .carousel-item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  
+
+  
+  @media (max-width: 800px) {
+    .carousel-item img{
+      max-width: 100%;
+    }
+  }
+  .header{
+    display: flex;
+    align-items: center;
+  }
+  .header img{
+    padding-right: 2em;
+  }
+
+
